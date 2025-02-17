@@ -11,6 +11,7 @@
     venv.requirements = ''
      git+https://github.com/ShutdownRepo/shellerator
      git+https://github.com/0xthefr34k/pwncat-cs
+     git+https://github.com/maurosoria/dirsearch
     '';
     # libraries = [ pkgs.cairo ];
   };
